@@ -1,1 +1,10 @@
 # Harishprabu.s_NM_au110321104014_grtiet_music-web-application-using-djanjo
+Project created by:
+NAME: HARISH PRABU.S
+REG.NO:110321104014
+NM ID:au110321104014
+EMAIL: harishprabu2003@gmail.com
+COOLEGE: GRT INSTITUTE OF ENGINEERING AND TECHNOLOGY
+
+USERNAME: HARISH
+PASSWORD:1234
